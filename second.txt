@@ -3,4 +3,4 @@ change to stash
 change in thirdbranch to stash
 change in thirdbranch in remote topic
 change on local machine
-
+change on file in remote
