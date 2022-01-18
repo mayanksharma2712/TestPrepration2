@@ -1,2 +1,4 @@
 change in thirdbranch
 change to stash
+change in thirdbranch to stash
+
